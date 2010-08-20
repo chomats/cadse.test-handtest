@@ -16,6 +16,7 @@
 			<groupId>fr.imag.adele.cadse</groupId>
 			<artifactId>testplatform</artifactId>
 			<scope>compile</scope>
+			<version>2.3.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	<build>
